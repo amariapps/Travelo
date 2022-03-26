@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import avatarImage from "../assets/avatarImage.jpeg";
+import avatarImage from "../assets/Avatar_Femme.png";
 export default function Testimonials() {
   return (
     <Section id="testimonials">
