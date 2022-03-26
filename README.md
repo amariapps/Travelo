@@ -1,3 +1,3 @@
 # Travelo
 
-![alt text](src/assets/screen.png)
+![alt text](src/assets/screenshot.png)
